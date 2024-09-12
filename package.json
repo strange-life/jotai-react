@@ -9,6 +9,10 @@
     "react"
   ],
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strange-life/jotai-react.git"
+  },
   "type": "module",
   "exports": {
     ".": {
